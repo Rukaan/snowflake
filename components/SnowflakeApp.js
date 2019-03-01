@@ -156,8 +156,9 @@ class SnowflakeApp extends React.Component<Props, SnowflakeAppState> {
           }
         `}</style>
         <div style={{margin: '19px auto 0', width: 142}}>
-          <a href="https://medium.com/" target="_blank">
-            <Wordmark />
+          <a href="https://nostratech.com/" target="_blank">
+            <img src={'https://www.nostratech.com/assets/web/img/icon_nostra.png'} alt="icon nostra"/>
+            {/* <Wordmark /> */}
           </a>
         </div>
         <div style={{display: 'flex'}}>
