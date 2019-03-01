@@ -73,23 +73,23 @@ const emptyState = (): SnowflakeAppState => {
 
 const defaultState = (): SnowflakeAppState => {
   return {
-    name: 'Cersei Lannister',
-    title: 'Staff Engineer',
+    name: 'Rukaan Adha',
+    title: 'Senior Group Lead',
     milestoneByTrack: {
       'MOBILE': 1,
-      'WEB_CLIENT': 2,
+      'WEB_CLIENT': 3,
       'FOUNDATIONS': 3,
       'SERVERS': 2,
-      'PROJECT_MANAGEMENT': 4,
+      'PROJECT_MANAGEMENT': 2,
       'COMMUNICATION': 1,
-      'CRAFT': 1,
+      'CRAFT': 2,
       'INITIATIVE': 4,
       'CAREER_DEVELOPMENT': 3,
       'ORG_DESIGN': 2,
       'WELLBEING': 0,
       'ACCOMPLISHMENT': 4,
       'MENTORSHIP': 2,
-      'EVANGELISM': 2,
+      'EVANGELISM': 0,
       'RECRUITING': 3,
       'COMMUNITY': 0
     },
