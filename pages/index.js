@@ -1,13 +1,11 @@
 import SnowflakeApp from '../components/SnowflakeApp'
+import Head from 'next/head'
 
 export default () => 
-<html>
-  <head>
+<div>
+  <Head>
     <title>Snowflake - Growth Framework</title>
-  </head>
-  <body>
-    <div>
-      <SnowflakeApp />
-    </div>
-  </body>
-</html>
+    <link rel="shortcut icon" type="image/png" href="static/favicon.ico"/>  
+  </Head>
+  <SnowflakeApp />
+</div>
