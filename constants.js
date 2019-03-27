@@ -109,7 +109,7 @@ export const tracks: Tracks = {
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
       "signals": [
-        "Defines new usefull component",
+        "Defines new useful component",
         "Migrates code from old patterns to new patterns",
         " ",
       ],
@@ -164,60 +164,60 @@ export const tracks: Tracks = {
     "milestones": [{
       "summary": "Works effectively within established web client architectures, following current best practices",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Delivers features requiring simple modifications",
+        "Adds simple actions that call server endpoints",
+        "Reuses existing components appropriately",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Create a simple page with design from designer",
+        "Call a backend API using existing library",
+        "Understand and implement ESLint accordingly",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Makes abstractions based on template and code patterns",
+        "Specs and builds new useful component",
+        "Prototypes simple new features quickly",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Designed and implemented filter and sorting template",
+        "Created new modal form system",
+        "Delivered new menu with simple CRUD",
       ],
     }, {
       "summary": "Designs major new features and demonstrates a nuanced understanding of browser constraints",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Implements complex features with a large product surface area",
+        "Performs systemic tasks to significantly minimise bundle size",
+        "Migrates code to newer technology",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Utilitized service workers for real time notification",
+        "Researched and configured webpack to upgrade performance",
+        "Migrated javascript to typescript for project",
       ],
     }, {
       "summary": "Builds complex, reusable architectures that pioneer best practices and enable engineers to work more effectively",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Pioneers architecture migrations that reduce programmer burden",
+        "Designs complete architecture framework stacks",
+        "Makes architectural decisions that eliminate entire classes of bugs",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Upgraded framework to a new major version",
+        "Designed new code template for complete CMS",
+        "Pioneered PWA for web and mobile application",
       ],
     }, {
       "summary": "Is an industry-leading expert in web client or sets strategic web client direction for an eng team",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Invents new techniques to innovate and overcome browser constraints",
+        "Identifies and solved systemic problems with current architecture",
+        "Defines a long-term vision for web client and ensures projects are in it",
       ],
       "examples": [
-        " ",
+        "Defined roadmap of front end technology",
         " ",
         " ",
       ],
@@ -227,7 +227,7 @@ export const tracks: Tracks = {
   "FOUNDATIONS": {
     "displayName": "Foundations",
     "category": "A",
-    "description": "Develops expertise in foundational systems, such as deployments, pipelines, databases and machine learning",
+    "description": "Develops expertise in foundational systems, such as deployments, pipelines and databases",
     "milestones": [{
       "summary": "Works effectively within established structures, following current best practices",
       "signals": [
@@ -294,7 +294,7 @@ export const tracks: Tracks = {
   "SERVERS": {
     "displayName": "Servers",
     "category": "A",
-    "description": "Develops expertise in server side engineering, using technologies such as Go, NodeJS, or Scala",
+    "description": "Develops expertise in server side engineering, using technology such as Java",
     "milestones": [{
       "summary": "Works effectively within established server side frameworks, following current best practices",
       "signals": [
