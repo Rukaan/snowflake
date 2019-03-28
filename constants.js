@@ -231,62 +231,62 @@ export const tracks: Tracks = {
     "milestones": [{
       "summary": "Works effectively within established structures, following current best practices",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Delivers deployment requiring simple modifications",
+        "Makes simple configuration changes to services",
+        "Indentifies thorough postmortems for service outages",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Made safe and effective server changes",
+        "Implemented new deployment job based on existing ones",
+        "Resolved out of disk errors independently",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Made minor version upgrades to technologies",
+        "Specs and builds services instances",
+        "Build deployment framework from new technology",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Upgraded NodeJS from 8.0 to 8.1.1",
+        "Created new database with its privilege in Amazon RDS",
+        "Built custom jobs to deploy front end based on yarn",
       ],
     }, {
       "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Implements complex systems with a large product surface area",
+        "Acts as primary maintainer for existing critical systems",
+        "Makes major version upgrades to libraries",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Implemented microservices in Openshifts stacks",
+        "Built ELK monitoring and alert for project",
+        "Designed and implemented VPN architecture in AWS",
       ],
     }, {
       "summary": "Builds complex, reusable architectures that pioneer best practices for other engineers, or multi-system services",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Pioneers architecture migrations that reduce cost",
+        "Demonstrates deep knowledge of foundational systems",
+        "Introduces new databases and technologies to meet underserved needs",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Built full cycle heroku replica for internal",
+        "Designed AWS configuration management",
+        "Implemented large scale monitoring on whole infrastructure",
       ],
     }, {
       "summary": "Is an industry-leading expert in foundational engineering or sets strategic foundational direction for an eng team",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Defines a long-term vision for infrastructure and supporting technologies",
+        "Invents industry-leading techniques to solve complex problems",
+        "Designs transformational projects in service of long-term goals",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Defined roadmap of infrastructure technology",
+        "Defined and developed Nostra's continuous delivery strategy",
+        "Developed and implemented HA strategy",
       ],
     }],
   },
@@ -1193,7 +1193,7 @@ export const categoryColorScale = d3.scaleOrdinal()
   .range(['#00abc2', '#428af6', '#e1439f', '#e54552'])
 
 export const titles = [
-  {label: 'Engineer I', minPoints: 0, maxPoints: 16},
+  {label: 'Engineer', minPoints: 0, maxPoints: 16},
   {label: 'Engineer II', minPoints: 17, maxPoints: 35},
   {label: 'Senior Engineer', minPoints: 36, maxPoints: 57},
   {label: 'Group Lead', minPoints: 36, maxPoints: 57},
