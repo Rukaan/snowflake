@@ -212,9 +212,9 @@ export const tracks: Tracks = {
     }, {
       "summary": "Is an industry-leading expert in web client or sets strategic web client direction for an eng team",
       "signals": [
+        "Defines a long-term vision for web client and ensures projects are in it",
         "Invents new techniques to innovate and overcome browser constraints",
         "Identifies and solved systemic problems with current architecture",
-        "Defines a long-term vision for web client and ensures projects are in it",
       ],
       "examples": [
         "Defined roadmap of front end technology",
@@ -298,60 +298,60 @@ export const tracks: Tracks = {
     "milestones": [{
       "summary": "Works effectively within established server side frameworks, following current best practices",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Delivers features requiring simple modifications",
+        "Adds Java endpoints using Spring Boot architecture",
+        "Makes minor server changes to support client needs",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Created new services to show list user",
+        "Configured connection to database or redis",
+        "Queried a PostgreSQL appropriately",
       ],
     }, {
       "summary": "Develops new instances of existing architecture, or minor improvements to existing architecture",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Assesses correctness and utility of existing code",
+        "Generalizes code when appropriate",
+        "Determines data needs from requirements",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Created general function to filter users",
+        "Added dependencies to improve works",
+        "Identified need for new index on PostgreSQL",
       ],
     }, {
       "summary": "Designs standalone systems of moderate complexity, or major new features in existing systems",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Implements complex features with a large product surface area",
+        "Integrates third party services effectively",
+        "Adds support for new features after a major version upgrade",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Designed plan to migrated to Spring Boot 2",
+        "Implemented Google Auth login to project",
+        "Implemented payments integration with Go Pay",
       ],
     }, {
       "summary": "Builds complex, reusable architectures that pioneer best practices for other engineers, or multi-system services",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Pioneers architecture migration strategies that improve works process",
+        "Avoids subtle architectural mistakes when considering new systems",
+        "Designs complete architecture framework stacks",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Created and maintain modular user management JAR",
+        "Created Spring Boot framework for creating Java microservices",
+        "Designed and implemented microservices architecture for project",
       ],
     }, {
       "summary": "Is an industry-leading expert in server side engineering or sets strategic server side direction for an eng team",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Defines a long-term vision for services and ensures projects are in it",
+        "Designs transformational projects of significant complexity and scope",
+        "Makes decisions that have positive, long term, wide ranging consequences",
       ],
       "examples": [
-        " ",
+        "Defined roadmap of back end technology",
         " ",
         " ",
       ],
