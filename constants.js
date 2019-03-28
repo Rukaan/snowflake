@@ -365,9 +365,9 @@ export const tracks: Tracks = {
     "milestones": [{
       "summary": "Effectively delivers individual tasks",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Estimates small tasks accurately",
+        "Delivers tightly-scoped projects efficiently",
+        "Writes effective technical specs outlining approach",
       ],
       "examples": [
         " ",
@@ -377,9 +377,9 @@ export const tracks: Tracks = {
     }, {
       "summary": "Effectively delivers small personal projects",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Performs research and considers alternative approaches",
+        "Balances pragmatism and polish appropriately",
+        "Defines and hits short term milestones",
       ],
       "examples": [
         " ",
@@ -389,9 +389,9 @@ export const tracks: Tracks = {
     }, {
       "summary": "Effectively delivers projects through a small team",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Delegates tasks to others appropriately",
+        "Integrates business needs into project planning",
+        "Chooses appropriate project management strategy based on context",
       ],
       "examples": [
         " ",
@@ -401,9 +401,9 @@ export const tracks: Tracks = {
     }, {
       "summary": "Effectively delivers projects through a large team, or with a significant amount of stakeholders or complexity",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Finds ways to deliver requested scope faster, and prioritizes backlog",
+        "Manages dependencies on other projects and teams",
+        "Leverages recognition of repeated project patterns",
       ],
       "examples": [
         " ",
@@ -413,9 +413,9 @@ export const tracks: Tracks = {
     }, {
       "summary": "Manages major company pushes delivered by multiple teams",
       "signals": [
-        " ",
-        " ",
-        " ",
+        "Considers external constraints and business objectives when planning",
+        "Leads teams of teams, and coordinates effective cross-functional collaboration",
+        "Owns a key company metric",
       ],
       "examples": [
         " ",
