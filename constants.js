@@ -370,9 +370,9 @@ export const tracks: Tracks = {
         "Writes effective technical specs outlining approach",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Estimated individual sprint delivery precisely",
+        "Delivered transaction history dashboard",
+        "Wrote technical specs for feature upload pdf",
       ],
     }, {
       "summary": "Effectively delivers small personal projects",
@@ -382,9 +382,9 @@ export const tracks: Tracks = {
         "Defines and hits short term milestones",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Estimated team sprint delivery precisely",
+        "Delivered feature booking and payment order",
+        "Considered new tech or existing tech based on timeline",
       ],
     }, {
       "summary": "Effectively delivers projects through a small team",
@@ -394,9 +394,9 @@ export const tracks: Tracks = {
         "Chooses appropriate project management strategy based on context",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Completed launch checklist unprompted for well controlled rollout",
+        "Ran project retro to assess improvement opportunities",
+        "Facilitated project kickoff meeting for requirement gathering",
       ],
     }, {
       "summary": "Effectively delivers projects through a large team, or with a significant amount of stakeholders or complexity",
@@ -406,9 +406,9 @@ export const tracks: Tracks = {
         "Leverages recognition of repeated project patterns",
       ],
       "examples": [
-        " ",
-        " ",
-        " ",
+        "Managed infrastructure migration for all instance to AWS",
+        "Involved marketing, legal, and appropriate functions at project start",
+        "Delivered multi-month engineering project on time",
       ],
     }, {
       "summary": "Manages major company pushes delivered by multiple teams",
@@ -418,7 +418,7 @@ export const tracks: Tracks = {
         "Owns a key company metric",
       ],
       "examples": [
-        " ",
+        "Lead technical go live for multi-team project",
         " ",
         " ",
       ],
